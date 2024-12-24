@@ -1,0 +1,8 @@
+
+{
+    "users": [
+        { "id": 1, "name": "Jane Smith", "email": "jane@example.com", "image": "/assets/images/profile2.jpg" }
+  
+    ]
+}
+  
